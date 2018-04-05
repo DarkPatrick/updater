@@ -1,4 +1,5 @@
 # updater
 
-Для работы необходима библиотека  
-https://github.com/DarkPatrick/JSONparser
+Для работы необходимы библиотеки  
+https://github.com/DarkPatrick/JSONparser  
+curl: https://curl.haxx.se/download.html
